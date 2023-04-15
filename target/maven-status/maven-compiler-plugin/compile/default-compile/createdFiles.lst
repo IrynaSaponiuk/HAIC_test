@@ -1,0 +1,6 @@
+pagefactory\SearchPage.class
+pagefactory\ProductPage.class
+pagefactory\CartPage.class
+pagefactory\MainPage.class
+manager\PageFactoryManager.class
+pagefactory\BasePage.class
